@@ -16,6 +16,12 @@ color: #FD6E0A;
     font-size: 20px;
     color: #fff;
 }
+.header{
+    background:url(../images/header_bg.png),url(../images/developer.png);
+    background-repeat: no-repeat;
+    background-color: #FFF8F3;
+    background-position: bottom right,left;
+} 
 /*--------------------------
 Header And Navigation Styles
 ----------------------------*/
@@ -26,7 +32,7 @@ Header And Navigation Styles
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    margin: 0px 200px;
 }
 nav ul{
     display: flex;  
