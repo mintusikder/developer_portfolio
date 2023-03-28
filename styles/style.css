@@ -51,9 +51,22 @@ nav li{
     font-size: 85px;
     font-weight: 700;
     color: #181818;
+    margin-top: 13px;
+    margin-bottom: 20px;
 }
 .banner-description{
     font-size: 18px;
     font-weight: 400;
     color: #757575;
+    margin-bottom: 30px;
+}
+.contact-btn{
+    height: 64px;
+   margin-left: 30px;
+    border-radius: 5px;
+    border: 1px solid #FD6E0A;
+    padding: 18px 35px;
+    font-weight: 700;
+    font-size: 20px;
+   color: #FD6E0A;
 }
