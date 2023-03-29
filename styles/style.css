@@ -183,83 +183,97 @@ main {
     color: #757575;
     text-align: left;
 }
+
 /* resume style */
 
-.resume-title{
+.resume-title {
     margin: 130px 0 110px 0;
     text-align: center;
     font-weight: 700;
     font-size: 35px;
 }
-.resume-container{
+
+.resume-container {
     display: flex;
     gap: 20px;
 }
 
-.education-title{
+.education-title {
     margin-bottom: 30px;
     font-size: 30px;
     font-weight: 700;
     color: #474747;
-    
+
 }
-.education-sub-title{
+
+.education-sub-title {
     margin: 30px 0 30px 0;
     font-size: 25px;
     font-weight: 700;
     color: #474747;
 }
-.edu-sub-description{
+
+.edu-sub-description {
     margin-bottom: 20px;
     font-size: 20px;
     font-weight: 600;
     color: #757575;
 }
-.edu-description{
+
+.edu-description {
     margin-bottom: 30px;
     color: #757575;
 }
-.download-cv{
+
+.download-cv {
     text-align: center;
     margin: 50px 0 110px 0;
 }
+
 /* contact styles */
-.contact{
+.contact {
     display: flex;
     gap: 100px;
     background: #FFF8F3;
     padding: 130px 380px;
 }
-.contact-title{
-   text-align: left;
-   font-weight: 700;
-font-size: 35px;
-margin-bottom: 20px;
-color: #181818;
+
+.contact-title {
+    text-align: left;
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 20px;
+    color: #181818;
 }
-.contact-description{
+
+.contact-description {
     color: #474747;
     margin-bottom: 30px;
 }
-label{
+
+label {
     display: block;
 }
-.contact input, textarea{
+
+.contact input,
+textarea {
     margin-bottom: 24px;
     border: 0;
 }
-.text{
-    
+
+.text {
+
     width: 461px;
-height: 64px;
-padding-left: 30px;
-font-weight: 400;
-font-size: 16px;
-}
-.message{
+    height: 64px;
+    padding-left: 30px;
     font-weight: 400;
-font-size: 16px;
+    font-size: 16px;
+}
+
+.message {
+    font-weight: 400;
+    font-size: 16px;
     width: 461px;
-height: 180px;
-padding: 18px 0 0 30px;
+    height: 180px;
+    padding: 18px 0 0 30px;
 }
