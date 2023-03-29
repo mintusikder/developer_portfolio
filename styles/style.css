@@ -38,6 +38,7 @@ nav {
     display: flex;
     justify-content: space-between;
     margin: 0px 200px;
+    padding: 10px;
 }
 
 nav ul {
